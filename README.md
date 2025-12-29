@@ -9,3 +9,8 @@ Monitoring population growth is critical as it directly impacts energy demand, e
 - Hyperparameter Tuning: Optimization of Changepoint Prior Scale (CPS), Seasonality Prior Scale (SPS), and N-changepoints.
 - Comparative Analysis: Performance benchmarking against ARIMA and Support Vector Regression (SVR).
 - Highly Accurate Results: Achieved a Mean Absolute Percentage Error (MAPE) of 2.65%.
+
+## Publication
+This research has been officially published in a **SINTA 4** accredited journal. You can access the full paper through the following link:
+
+- **Journal Link:** [Click Here](https://doi.org/10.32877/bt.v8i2.3190)
